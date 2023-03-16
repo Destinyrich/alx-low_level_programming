@@ -2,16 +2,16 @@
 
  /**
   * main - prints "Programming is like building a multilingual 
-  * puzzle, followed by a newlin."
-  *  return 0.
+  * puzzle, followed by a newlin.
+  *  Return: Always 0.
   */
 
  int main(void)
 
 {
  
-  puts("/"Programming is like buiding a mutilingual puzzle);
+  puts("\"Programming is like buiding a mutilingual puzzle");
 
-  return(0);
+  return (0);
 	 
  }
