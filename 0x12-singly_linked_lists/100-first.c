@@ -8,6 +8,6 @@ void first(void) __attribute__((constructor));
  */
 void first(void)
 {
-	printf("my name is destiny! and i'm a boy, who live in warri,\n");
-	printf("nigerian are great!\n");
+	printf("You're beat! and yet, you must allow,\n");
+	printf("I bore my house upon my back!\n");
 }
