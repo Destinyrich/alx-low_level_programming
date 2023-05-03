@@ -1,6 +1,6 @@
 #include "lists.h"
 /**
- * sum listint - calculates the sum of all the data in a listint_t int
+ * sum_listint - calculates the sum of all the data in a listint_t int
  * @head: first node in the linked list
  *
  * Return:resulting sum
