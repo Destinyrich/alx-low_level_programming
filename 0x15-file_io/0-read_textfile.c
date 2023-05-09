@@ -2,7 +2,7 @@
 #include <stdlib.h>
 
 /**
- * read_rextfile - Read text file print to STDOUT.
+ * read_textfile - Read text file print to STDOUT.
  * @filename: text file being read
  *
  * @letters: number of leatters to be read
